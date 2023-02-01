@@ -1,3 +1,3 @@
 # kings-hotel
 
-Sam final project - hotal management system
+Sam final project - hotel management system
